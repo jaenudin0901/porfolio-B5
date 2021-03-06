@@ -1,0 +1,12 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #e2edff;
+}
+
+#projects .container .row .col-md-4 .card img {
+  padding-left: 5px;
+  padding-right: 5px;
+}
